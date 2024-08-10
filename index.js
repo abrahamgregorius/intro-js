@@ -1,19 +1,19 @@
 // Variables
-let variablePertama = "Hello world";
-var variableKedua = "Hello";
-const variableKetiga = "World";
+// let variablePertama = "Hello world";
+// var variableKedua = "Hello";
+// const variableKetiga = "World";
 
 // Casing in naming variables
-let PascalCase = "";
-let snake_case = "";
+// let PascalCase = "";
+// let snake_case = "";
 // let kebab-case = ""
-let camelCase = "";
+// let camelCase = "";
 
 // Data types
-let nama = "Alfian";
-let umur = 16;
-let isMarried = false;
-const pi = 3.14;
+// let nama = "Alfian";
+// let umur = 16;
+// let isMarried = false;
+// const pi = 3.14;
 
 // Operators
 // Arithmetic
@@ -24,13 +24,13 @@ const pi = 3.14;
 // %
 
 // Assignment
-let number = 12;
-number += 10;
-number = number + 10; // reassignment
-
-number -= 1;
-number /= 1;
-number *= 1;
+// let number = 12;
+// number += 10;
+// number = number + 10; // reassignment
+// 
+// number -= 1;
+// number /= 1;
+// number *= 1;
 
 // Comparison
 // >
@@ -61,34 +61,34 @@ number *= 1;
 // console.log(perkalian(1,2))
 
 // Objects
-let orangPertama = {
-    firstName: "Joni",
-    lastName: "Suharman",
-    age: 19,
-    isMarried: true,
-};
+// let orangPertama = {
+    // firstName: "Joni",
+    // lastName: "Suharman",
+    // age: 19,
+    // isMarried: true,
+// };
 
 // console.log(orangPertama.firstName + " " + orangPertama.lastName)
 // console.log("Is "+ orangPertama.firstName + " married?")
 // console.log(orangPertama.isMarried)
 
-let orangBanyak = [
-    {
-        nama: "Alfi",
-        age: 17,
-        isMarried: false,
-    },
-    {
-        nama: "Arthur",
-        age: 17,
-        isMarried: false,
-    },
-    {
-        nama: "Hendri",
-        age: 17,
-        isMarried: false,
-    },
-];
+// let orangBanyak = [
+//     {
+//         nama: "Alfi",
+//         age: 17,
+//         isMarried: false,
+//     },
+//     {
+//         nama: "Arthur",
+//         age: 17,
+//         isMarried: false,
+//     },
+//     {
+//         nama: "Hendri",
+//         age: 17,
+//         isMarried: false,
+//     },
+// ];
 
 // iterations
 // for(let i = 100; i > 10; i--) {
@@ -111,7 +111,7 @@ let orangBanyak = [
 //     }
 // }
 
-let numbers = [12, 23, 34, 54, 63, 12, 283];
+// let numbers = [12, 23, 34, 54, 63, 12, 283];
 
 // for (let i = 0; i < numbers.length; i++) {
 //     console.log(numbers[i]);
@@ -142,3 +142,16 @@ let numbers = [12, 23, 34, 54, 63, 12, 283];
 // console.log(amount + amount2)
 // console.log(hasil)
 // console.log(typeof(hasil))
+
+
+// Percabangan/perkondisian
+// let umur = 99
+// if(umur < 10) {
+//     console.log('masih anak anak')
+// }
+// else if(umur > 10 && umur < 20) {
+//     console.log('sudah remaja')
+// }
+// else {
+//     console.log("sudah tua")
+// } 
