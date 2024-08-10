@@ -155,3 +155,56 @@
 // else {
 //     console.log("sudah tua")
 // } 
+
+let nomor = 12
+let number = nomor
+
+
+
+
+
+class Person {
+    constructor(tb, bb, gender) {
+        this.tb = tb
+        this.bb = bb
+        this.gender = gender
+    }
+
+    getTinggiBadan() {
+        return this.tb
+    }
+
+    getGender() {
+        return this.gender
+    }
+}
+
+// let joni = new Person(160, 50, "L")
+// let budi = new Person(170, 70, "L")
+// let tinggiBadanJoni = joni.getTinggiBadan()
+
+// console.log(joni.getGender())
+
+let string1 = "hello"
+let array1 = ["h", "e", "l", "l", "o"]
+
+console.log(string1[2])
+
+
+
+// Section 1
+// 1. printMessage(message) - output suatu pesan
+// 2. addNumbers(x, y) - output pertambahan
+// 3. findLarger(x, y) - output bilangan terbesar
+// 4. checkEven(x) - output true/false apakah genap
+// 5. sumList(list) - output penjumlahan dari list 
+
+// Section 2
+// 6. reverseString(string) - output reverse dari string
+// 7. countCharacter(string) - output count berapa char dalam string
+// 8. checkDivisible(x, y) - output cek apakah X dapat habis dibagi Y
+// 9. findAverage(list) - output rata rata dari list
+
+
+
+https://github.com/abrahamgregorius/intro-js
